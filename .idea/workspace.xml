@@ -9,7 +9,9 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="57905f73-34d5-4608-a313-43cb9213ee83" name="Changes" comment="" />
+    <list default="true" id="57905f73-34d5-4608-a313-43cb9213ee83" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/week06/app/src/main/java/com/example/week06/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/week06/app/src/main/java/com/example/week06/MainActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +23,14 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2c5xZXCiNDPLFKUyrZGMJ8QXLJZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
